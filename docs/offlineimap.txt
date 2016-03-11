@@ -50,7 +50,7 @@ mails it would transfer.
 +
 Useful for debugging and bug reporting. Use in conjunction with the -a option
 to limit the output to a single account. This mode will prevent any actual
-sync to occur and exits after it outp ut the debug information.
+sync to occur and exits after it output the debug information.
 
 
 -1::
